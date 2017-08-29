@@ -3,7 +3,7 @@ package brickBracker;
 import javax.swing.JFrame;
 /*
  * author: prashant.m
- * date: 29 Aug 2017
+ * date: 28 Aug 2017
  */
 
 public class BreakOutMain {
